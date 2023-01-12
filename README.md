@@ -1,11 +1,11 @@
 ## Olá, sou o Marcos, estudante autodidata de desenvolvimento web backend
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/amarcossousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amarcossousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarcossousa&layout=compact&langs_count=7&theme=dark"/>
 </div>
-</div>
+</div> -->
   <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarcossousa&theme=dark">
  </div>
